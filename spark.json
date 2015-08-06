@@ -1,0 +1,7 @@
+{
+  "name": "MFRC522",
+  "author": "Miguel Balboa (Ported by Brian Kinney)",
+  "license": "MIT",
+  "version": "0.0.10",
+  "description": "Arduino library for MFRC522 and other RFID RC522 based modules."
+}
